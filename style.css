@@ -1,0 +1,13 @@
+body {
+  background-color:rgb(141, 185, 185);
+  background-image:url(Image.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-blend-mode:soft-light;
+  color:rgb(0,0,0);
+  }
+h1{
+  color:rgb(0, 4, 255); text-align: center; font-size: 48px;
+  border-style:double;
+  }
+ul{font-size: 28px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
